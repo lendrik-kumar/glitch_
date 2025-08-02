@@ -12,7 +12,7 @@ Built for a hackathon project to reflect the overwhelmed minds behind the screen
 - Deployed using GitHub Pages
 
 ### 📡 Live Site
-[Visit the Live Site](https://guriii07.github.io/glitch404)
+[Visit the Live Site](https://glitch404-frontend-production.up.railway.app)
 
 ---
 
