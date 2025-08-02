@@ -1,4 +1,4 @@
-# GLITCH//404: Signal Lost in the Noise
+# GLITCH//404: A basic socket rooms app
 
 A conceptual website exploring mental health in the digital age — where identity glitches, emotions loop, and silence becomes loud.  
 Built for a hackathon project to reflect the overwhelmed minds behind the screens.
